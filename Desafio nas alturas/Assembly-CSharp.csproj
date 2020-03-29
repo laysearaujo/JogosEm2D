@@ -54,11 +54,15 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Aviao.cs" />
+     <Compile Include="Assets\Scripts\ControleDeDificuldade.cs" />
      <Compile Include="Assets\Scripts\Diretor.cs" />
      <Compile Include="Assets\Scripts\GeradorDeObstaculo.cs" />
+     <Compile Include="Assets\Scripts\InterfaceGameOver.cs" />
+     <Compile Include="Assets\Scripts\maoPiscando.cs" />
      <Compile Include="Assets\Scripts\Obstaculo.cs" />
      <Compile Include="Assets\Scripts\Piso.cs" />
      <Compile Include="Assets\Scripts\Pontuacao.cs" />
+     <Compile Include="Assets\Scripts\VariavelCompartilhadaFloat.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/Layse/Documents/Jogos-2D/Desafio nas alturas/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
